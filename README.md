@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄我是来自21级计算机二班的邱彦祥，热衷于软件开发，并致力于此行业发展。
+- 🔭现任工大创客工坊、华为创享社核心负责团队小A创新创业团队负责人之一
+- 🔭加入 openEuler&openGauss 人才发展加速计划
+- 📫曾主持或参与三个落地项目后端开发
+    - 📫龙门金榜（高考志愿填报）
+    - 📫广州知识产权保护中心内部管理系统
+    - 📫双创总务系统
+- ⚡个人独立开发维护开源项目 [观星](https://github.com/Are-sky/Stargazing)
+- ⚡开源项目[bilive-danmaku](https://github.com/4t145/bilive-danmaku) Contributors之一
