@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ts_jar</output-path>
+    <root id="archive" name="ts.jar">
+      <element id="module-output" name="ts" />
+      <element id="extracted-dir" path="D:/WorkSpace/mavenspace/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WorkSpace/mavenspace/com/huaban/jieba-analysis/1.0.0/jieba-analysis-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WorkSpace/mavenspace/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WorkSpace/mavenspace/cn/hutool/hutool-all/5.8.16/hutool-all-5.8.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
